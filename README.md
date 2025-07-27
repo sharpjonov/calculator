@@ -1,6 +1,6 @@
 ## 🚀 Live Demo
 
-🔗 [Открыть калькулятор в браузере](https://calculator-sharpjonovs-projects.vercel.app/)
+🔗 [Открыть калькулятор в браузере](https://calculator-flame-one-16.vercel.app/)
 
 ---
 
