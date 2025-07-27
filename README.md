@@ -6,7 +6,7 @@
 
 ## 📸 Превью
 
-<img src="./src/assets/images/preview.png" alt="calculator screenshot" width="300" />
+<img width="395" height="556" alt="image" src="https://github.com/user-attachments/assets/ec5d9a66-d90f-4216-8814-58fde3642939" />
 
 > Скриншот твоего проекта (замени путь, если он у тебя другой)
 
